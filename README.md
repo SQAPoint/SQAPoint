@@ -1,8 +1,8 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/logo-dark.svg">
-  <img src="assets/logo-light.svg" alt="SQA Point" width="420">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/logo-dark-bg.svg">
+  <img src="assets/logo.svg" alt="SQA Point" width="420">
 </picture>
 
 ### ✅ Verify &nbsp;·&nbsp; 💎 Quality &nbsp;·&nbsp; 🚀 Release
